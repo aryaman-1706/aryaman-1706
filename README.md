@@ -1,38 +1,45 @@
 # 👋 Hi, I'm Aryaman Bhagat  
 
-## 🚀 About Me  
+## 🚀 Data Analyst | Turning Data into Business Decisions  
 
-I am a Data Analyst focused on transforming raw data into actionable business insights.  
-I specialize in data cleaning, ETL processes, KPI tracking, and exploratory data analysis to support data-driven decision-making.
+I transform raw data into actionable business insights that support smarter decision-making.
 
-With hands-on experience in Python and SQL, I work on extracting, transforming, and analyzing structured datasets to identify trends, detect patterns, and generate meaningful reports. I enjoy solving analytical problems and building projects that demonstrate real-world business impact.
+With hands-on experience in **ETL processes, KPI tracking, statistical analysis, SQL querying, and dashboard development**, I focus on solving real-world analytical problems using structured, data-driven approaches.
 
-I am actively seeking opportunities in **Data Analytics / Business Analytics** roles.
+I work across the complete analytics lifecycle:
+Data Cleaning → Data Transformation → Analysis → KPI Measurement → Visualization → Business Insights
+
+I am actively seeking opportunities in **Data Analyst / Business Analyst roles**.
 
 ---
 
-## 💼 Core Competencies  
+## 💼 Core Expertise  
 
 - 📊 Exploratory Data Analysis (EDA)  
-- 🔄 ETL (Extract, Transform, Load) Processes  
-- 📈 KPI Tracking & Business Metrics Analysis  
-- 🗄️ SQL Query Optimization  
-- 📉 Trend & Pattern Analysis  
+- 📈 Statistical Analysis & Business Metrics  
+- 🔄 ETL (Extract, Transform, Load)  
+- 📉 KPI Tracking & Performance Monitoring  
+- 🗄️ Advanced SQL (Joins, Subqueries, Aggregations)  
+- 📊 Power BI Dashboard Development  
+- 📑 Business Reporting & Insight Generation  
 - 🧹 Data Cleaning & Preprocessing  
-- 📊 Dashboard-Oriented Analytical Thinking  
-- 📑 Data Reporting & Insight Generation  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 👨‍💻 Programming & Query Languages  
+### 👨‍💻 Programming & Querying  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📊 Data Analysis & Visualization  
+### 📊 Data Analysis & Statistics  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-Business_Insights-blue?style=for-the-badge)
+
+### 📈 BI & Visualization  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
@@ -48,19 +55,19 @@ I am actively seeking opportunities in **Data Analytics / Business Analytics** r
 
 ---
 
-## 📌 What I’m Currently Working On  
+## 🎯 Current Focus  
 
-- Building end-to-end analytics projects (Data Cleaning → ETL → KPI Analysis → Insights)  
-- Strengthening SQL & advanced analytics skills  
-- Exploring AI-driven analytics and risk detection  
+- Strengthening advanced SQL & query optimization  
+- Applying statistical thinking to business problems  
+- Building end-to-end analytics workflows  
+- Exploring risk & performance analytics  
 
 ---
 
 ## 🌐 Connect With Me  
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 📧 Email: your-email@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/aryaman-bhagat-478ba230b/  
+- 📧 Email: aryamanbhagat6@gmail.com  
 
 ---
 
-⭐ Feel free to explore my repositories to see practical implementations of data analysis projects.
