@@ -1,28 +1,38 @@
 # 👋 Hi, I'm Aryaman Bhagat  
 
-## 🚀 Data Analyst | Turning Data into Business Decisions  
+## 🚀 Data Analyst | SQL • Python • Power BI | ETL • KPI Analytics • Business Intelligence
 
-I transform raw data into actionable business insights that support smarter decision-making.
+I turn raw, messy datasets into meaningful insights that help businesses make smarter decisions.
 
-With hands-on experience in **ETL processes, KPI tracking, statistical analysis, SQL querying, and dashboard development**, I focus on solving real-world analytical problems using structured, data-driven approaches.
+My work focuses on the full analytics lifecycle:
+Data Cleaning → Transformation → Exploratory Analysis → KPI Measurement → Visualization → Business Insights.
 
-I work across the complete analytics lifecycle:
-Data Cleaning → Data Transformation → Analysis → KPI Measurement → Visualization → Business Insights
+I have hands-on experience working with SQL, Python (Pandas, NumPy), and Power BI to build analytical workflows, track business metrics, and create decision-support dashboards.
 
-I am actively seeking opportunities in **Data Analyst / Business Analyst roles**.
+I enjoy solving real-world problems through structured data analysis, statistical reasoning, and business-focused reporting.
+
+Currently seeking opportunities as a **Data Analyst or Business Analyst** where I can apply data-driven thinking to solve complex business problems.
 
 ---
 
-## 💼 Core Expertise  
+#### 💼 Core Expertise
 
-- 📊 Exploratory Data Analysis (EDA)  
-- 📈 Statistical Analysis & Business Metrics  
-- 🔄 ETL (Extract, Transform, Load)  
-- 📉 KPI Tracking & Performance Monitoring  
-- 🗄️ Advanced SQL (Joins, Subqueries, Aggregations)  
-- 📊 Power BI Dashboard Development  
-- 📑 Business Reporting & Insight Generation  
-- 🧹 Data Cleaning & Preprocessing  
+📊 Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Statistical Analysis
+- Business Metrics & KPI Tracking
+
+🗄️ Data Engineering Basics
+- ETL Pipelines
+- Data Transformation
+- SQL Query Optimization
+
+📈 Business Intelligence
+- Dashboard Development
+- Data Visualization
+- Business Reporting
+- Insight Generation
 
 ---
 
@@ -60,7 +70,8 @@ I am actively seeking opportunities in **Data Analyst / Business Analyst roles**
 - Strengthening advanced SQL & query optimization  
 - Applying statistical thinking to business problems  
 - Building end-to-end analytics workflows  
-- Exploring risk & performance analytics  
+- Exploring risk & performance analytics
+- Data Engineering Fundamentals 
 
 ---
 
